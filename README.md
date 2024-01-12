@@ -8,6 +8,10 @@ FrozenLake-DQL is a reinforcement learning project that applies Deep Q-Learning 
   <img src="https://github.com/hemantkrishnan4/FrozenLake-DQL/assets/96692095/2d6bcdfb-7742-4eb9-b94e-d63a5da864eb" width="50%" height="50%">
 </p>
 
+# Training Result
+<p align="center">
+  <img src="https://github.com/hemantkrishnan4/FrozenLake-DQL/assets/96692095/97cbbce7-1f40-4739-8546-8fd900dcb289" alt="frozen_lake_dql_Training Result">
+</p>
 
 
 # Gymnasium Reinforcement Learning
