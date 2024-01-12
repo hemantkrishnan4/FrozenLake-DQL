@@ -3,10 +3,10 @@
 FrozenLake-DQL is a reinforcement learning project that applies Deep Q-Learning to the FrozenLake environment using PyTorch. The project utilizes a neural network to learn a policy that allows an agent to navigate the FrozenLake map successfully.
 
 
-
-![FrozenLake](https://github.com/hemantkrishnan4/FrozenLake-DQL/assets/96692095/2d6bcdfb-7742-4eb9-b94e-d63a5da864eb)
-
-
+<!-- Resized GIF with equal height and width -->
+<p align="center">
+  <img src="https://github.com/hemantkrishnan4/FrozenLake-DQL/assets/96692095/2d6bcdfb-7742-4eb9-b94e-d63a5da864eb" width="50%" height="50%">
+</p>
 
 
 
